@@ -1,0 +1,37 @@
+{
+  "ProjectName": "Native Transition",
+  "ProjectGuid": "3715cd6b-56fe-4c3d-bd55-0a285bbd40b1",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.NativeTransition",
+  "DisplayName": "Native Transition",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{78210545-2707-4fba-aeea-a86dc590ed6b}",
+  "WP8ProductID": "{3c3d44af-d92a-4ea9-9ea6-5cb04599e6ff}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
